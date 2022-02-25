@@ -16,9 +16,9 @@
 ├── middleware      // 中间件
 ├── public          // 静态文件
 ├── utils           // 公用方法
-├── app.js          // 类型定义
-├── package.json    // ts配置
-└── start.js        // vite全局配置
+├── app.js          // 入口文件
+├── package.json    // package
+└── start.js        // 启动文件
 
 ```
 

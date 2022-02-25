@@ -1,0 +1,34 @@
+{
+  "name": "arsenal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node start.js",
+    "dev": "nodemon start.js",
+    "prd": "pm2 start start.js --watch",
+    "pm2stop": "pm2 stop start.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "new": "node ./generate/index.js"
+  },
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "babel-register": "^6.26.0",
+    "debug": "^4.1.1",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-convert": "^1.2.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.0",
+    "koa-onerror": "^4.1.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.2.0",
+    "koa2-cors": "^2.0.6",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.3",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}

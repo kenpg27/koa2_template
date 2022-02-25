@@ -12,7 +12,7 @@
 |   └── routes      // 路由
 ├── bin             // 启动文件
 ├── config          // 配置文件
-├── generate        // 模板生气
+├── generate        // 模板生成器
 ├── middleware      // 中间件
 ├── public          // 静态文件
 ├── utils           // 公用方法

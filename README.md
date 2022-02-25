@@ -36,12 +36,12 @@ Please give a ⭐️ if this project helped you!
 
 ## 👏 Contributing
 
-如果您有任何问题或请求，或想为“moveable”或其他包做出贡献，请写[issue](https://github.com/daybrush/moveable/issues)或给我一个 Pull Request 自由。
+如果您有任何问题或请求，或想为“moveable”或其他包做出贡献，请写[issue](https://github.com/kenpg27/koa2_template/issues)或给我一个 Pull Request 自由。
 
 If you have any questions or requests or want to contribute to `koa2_template` or other packages, please write the [issue](https://github.com/kenpg27/koa2_template/issues) or give me a Pull Request freely.
 
 ## 🐞 Bug Report
 
-如果你发现一个错误，请在 GitHub 上打开一个新的[Issue](https://github.com/daybrush/moveable/issues)报告给我们。
+如果你发现一个错误，请在 GitHub 上打开一个新的[Issue](https://github.com/kenpg27/koa2_template/issues)报告给我们。
 
 If you find a bug, please report to us opening a new [Issue](https://github.com/kenpg27/koa2_template/issues) on GitHub.
